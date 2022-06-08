@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nianwuzhixiu
 - 👀 I’m interested in gaming.
-- 🌱 I’m currently learning C/C++，PYTHON，JAVA，SQLSERVER,MYSQL,Cybersecurity，Big data algorithms.
+- 🌱 I’m currently learning C/C++ ，PYTHON ，JAVA ，SQLSERVER , MYSQL , CYBERSECURITY ，BIG DATA ALGORITHMS .
 - 💞️ I’m looking to collaborate on learning together.
 - 📫 How to reach me : nianwuzhixiu@outlook.com .
 
